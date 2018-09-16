@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\login.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\settings.html" />
   </ItemGroup>
 
